@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers%20Light%20Skin%20Tone.png" alt="Crossed Fingers Light Skin Tone" width="100" height="100" />
 <h1 align="left">Hello there!</h1>
 
 ###
@@ -9,7 +10,7 @@
 <h2 align="left">About me</h2>
 
 ###
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="150" height="150" />
 <p align="left">Hi there! I'm Ryan Hui 👋, a passionate Software Engineer 💻 at Airitech Inc. with a focus on full-stack development and DevOps 🔧. I specialize in building scalable applications using a variety of technologies, including JavaScript, TypeScript, Python, C#, and Node.js. Currently, I'm diving deep into React Native 📱 to expand my expertise in mobile development.<br><br>I thrive on solving complex problems 🔍 and continuously learning 📚. I’m particularly motivated by fixing bugs 🐛, conducting research 🔬, and challenging myself with LeetCode problems 💡. Throughout my journey, I've completed freelance projects (3 web apps 🌐 and 1 mobile app 📲) and earned certifications, including a React Native & AWS course from Meta on Coursera and full-stack JavaScript courses on Udemy.<br><br>Right now, I'm preparing for the AWS Solutions Architect exam 🏆 and diving deeper into NestJS ⚡ and Design Patterns 🔄 to enhance my software engineering skills.<br><br>My Hobbies & Interests:<br>3D Modeling & Character Sculpting 🎨 – I love bringing creative ideas to life!<br>Game Level Design 🎮 – Previously created intricate levels, enhancing my problem-solving skills.<br>Competitive FPS Games 🕹️ – I’m an avid gamer, always seeking the next challenge.<br>Feel free to explore my repositories 🧑‍💻 and reach out for collaboration or discussions on software development, cloud solutions, or anything related to tech! 🌟</p>
 
 ###
