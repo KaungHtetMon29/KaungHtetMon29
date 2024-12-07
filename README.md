@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Kaung Htet Mon.<br>I'm a working as a Software Engineer and I'm from Myanmar. <br>Currently living in Thailand, Bangkok.<br>I also have other names.<br>Chinese - 李仁輝 (Li Renhui)<br>English - Ryan Hui</p>
+<p align="left">My name is Kaung Htet Mon.<br>I'm working as a Software Engineer and I'm from Myanmar. <br>Currently living in Thailand, Bangkok.<br>I also have other names.<br>Chinese - 李仁輝 (Li Renhui)<br>English - Ryan Hui</p>
 
 ###
 
